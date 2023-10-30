@@ -38693,7 +38693,7 @@ button.hamburger {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    color: #343f52;
+    color: #fff;
     transition: all .2s ease-in-out
 }
 
